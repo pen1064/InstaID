@@ -1,4 +1,4 @@
-# InstID
+# InstaID
 Obtain the Instagram ID from the username. 
 
 # Usage
