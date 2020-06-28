@@ -1,6 +1,12 @@
 # InstaID
 Obtain the Instagram ID from the username. 
 
+# Installation
+To install all the related dependencies:
+```
+pip install -r requirements.txt
+```
+
 # Usage
 Type the following: 
 ```
