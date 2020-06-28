@@ -1,4 +1,6 @@
-import sys, json, os
+import sys
+import os
+import json
 import requests
 
 def get_id(username):
